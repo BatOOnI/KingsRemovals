@@ -1,0 +1,16 @@
+.menu-top{
+	list-style-type: 	none;
+	white-space: 		nowrap;
+}
+.menu-top li{
+	display: inline;
+}
+.top-header{
+	list-style-type: 	none;
+	white-space: 		nowrap;
+	background-color:	red;
+	width:100%;
+}
+.top-header a{
+	background-color:gray;
+}
